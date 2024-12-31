@@ -9,9 +9,7 @@ namespace NotasApp.API.Controllers
     [Route("api/[controller]")]
     public class NotasController:ControllerBase
     {
-        
         private readonly INotasServices _service;
-
         public NotasController(INotasServices service)
         {
             _service = service;
