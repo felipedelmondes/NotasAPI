@@ -59,7 +59,6 @@ namespace NotasApp.API.Controllers
 
             return "Sucesso ao excluir a nota " + notaId;
         }
-        
     
     }
 
