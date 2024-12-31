@@ -1,0 +1,12 @@
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/bin/Debug/net8.0/NotasApp.BLL.deps.json
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/bin/Debug/net8.0/NotasApp.BLL.dll
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/bin/Debug/net8.0/NotasApp.BLL.pdb
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/obj/Debug/net8.0/NotasApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/obj/Debug/net8.0/NotasApp.BLL.AssemblyInfoInputs.cache
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/obj/Debug/net8.0/NotasApp.BLL.AssemblyInfo.cs
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/obj/Debug/net8.0/NotasApp.BLL.csproj.CoreCompileInputs.cache
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/obj/Debug/net8.0/NotasApp.BLL.dll
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/obj/Debug/net8.0/refint/NotasApp.BLL.dll
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/obj/Debug/net8.0/NotasApp.BLL.pdb
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/obj/Debug/net8.0/ref/NotasApp.BLL.dll
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/obj/Debug/net8.0/NotasApp.BLL.csproj.AssemblyReference.cache

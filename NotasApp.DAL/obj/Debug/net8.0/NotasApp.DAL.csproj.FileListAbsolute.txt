@@ -1,0 +1,15 @@
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/bin/Debug/net8.0/NotasApp.DAL.deps.json
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/bin/Debug/net8.0/NotasApp.DAL.dll
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/bin/Debug/net8.0/NotasApp.DAL.pdb
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/bin/Debug/net8.0/NotasApp.BLL.dll
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/bin/Debug/net8.0/NotasApp.BLL.pdb
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/Debug/net8.0/NotasApp.DAL.csproj.AssemblyReference.cache
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/Debug/net8.0/NotasApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/Debug/net8.0/NotasApp.DAL.AssemblyInfoInputs.cache
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/Debug/net8.0/NotasApp.DAL.AssemblyInfo.cs
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/Debug/net8.0/NotasApp.DAL.csproj.CoreCompileInputs.cache
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/Debug/net8.0/NotasApp.910C075C.Up2Date
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/Debug/net8.0/NotasApp.DAL.dll
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/Debug/net8.0/refint/NotasApp.DAL.dll
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/Debug/net8.0/NotasApp.DAL.pdb
+/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/Debug/net8.0/ref/NotasApp.DAL.dll

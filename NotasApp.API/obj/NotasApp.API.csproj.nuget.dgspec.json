@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.API/NotasApp.API.csproj": {}
+  },
+  "projects": {
+    "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.API/NotasApp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.API/NotasApp.API.csproj",
+        "projectName": "NotasApp.API",
+        "projectPath": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.API/NotasApp.API.csproj",
+        "packagesPath": "/home/felipe/.nuget/packages/",
+        "outputPath": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/felipe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/NotasApp.BLL.csproj": {
+                "projectPath": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/NotasApp.BLL.csproj"
+              },
+              "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/NotasApp.DAL.csproj": {
+                "projectPath": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/NotasApp.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Dapper.Extensions.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Dapper.ORM": {
+              "target": "Package",
+              "version": "[1.0.0.7, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/NotasApp.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/NotasApp.BLL.csproj",
+        "projectName": "NotasApp.BLL",
+        "projectPath": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/NotasApp.BLL.csproj",
+        "packagesPath": "/home/felipe/.nuget/packages/",
+        "outputPath": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/felipe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Dapper.Extensions.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Dapper.ORM": {
+              "target": "Package",
+              "version": "[1.0.0.7, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/NotasApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/NotasApp.DAL.csproj",
+        "projectName": "NotasApp.DAL",
+        "projectPath": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/NotasApp.DAL.csproj",
+        "packagesPath": "/home/felipe/.nuget/packages/",
+        "outputPath": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/felipe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/NotasApp.BLL.csproj": {
+                "projectPath": "/home/felipe/Documentos/repo/NotasApp/NotasApp/NotasApp.BLL/NotasApp.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Dapper.Extensions.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Dapper.ORM": {
+              "target": "Package",
+              "version": "[1.0.0.7, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
